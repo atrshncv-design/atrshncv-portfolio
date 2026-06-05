@@ -1,0 +1,9 @@
+export { Navigation } from "./Navigation";
+export { Hero } from "./Hero";
+export { About } from "./About";
+export { Process } from "./Process";
+export { Skills } from "./Skills";
+export { Projects } from "./Projects";
+export { Experience } from "./Experience";
+export { Contact } from "./Contact";
+export { Footer } from "./Footer";

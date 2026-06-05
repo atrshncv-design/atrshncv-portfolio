@@ -1,0 +1,383 @@
+{
+  "code": 200,
+  "data": {
+    "description": "Sign in to your Horyx account to access AI-powered job matching and career opportunities.",
+    "external": {
+      "alternate": {
+        "https://horyx.com/profile": {
+          "hreflang": "x-default"
+        }
+      },
+      "apple-touch-icon": {
+        "https://horyx.com/apple-touch-icon.png?v=5": {
+          "sizes": "180x180"
+        }
+      },
+      "icon": {
+        "https://horyx.com/favicon-32x32.png?v=5": {
+          "sizes": "32x32",
+          "type": "image/png"
+        },
+        "https://horyx.com/favicon.svg?v=5": {
+          "type": "image/svg+xml"
+        }
+      },
+      "modulepreload": {
+        "https://horyx.com/_nuxt/Ageay9EX.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/B2hHb-pu.js": {
+          "as": "script",
+          "crossorigin": "",
+          "integrity": "sha384-seYJN6rNpXsbX8fjwqRoa29we80FRCeZ6Ll/QtpU/+G5vp4FwVfJQBgo0SNaWFVS"
+        },
+        "https://horyx.com/_nuxt/B5vvcJn3.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/B7IwWxEq.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BB3WBMFJ.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BEjBpnKC.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BFJvPR-k.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BFeNJ_xy.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BGRhWuN7.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BIykhdq3.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BLPCbUkI.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BLwPf4rD.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BMdf1ute.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BPRiUyZW.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BRSB0r7D.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BUOcfwTW.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BX8Bokui.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BXm_xI1h.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BbGQbIgN.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/Bhj2vh_L.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BkjFVNxn.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BlNxRk74.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BnbZD47s.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/Bns5P2p4.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/BtK7jDbV.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/Bw-wm4OI.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/Bw4Z33qx.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/Bzam2q37.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/C0quU-RP.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/C0z3u9yS.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/C3OiUduM.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/C87fYjjc.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/CAPcxra6.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/CBkHL8GI.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/CC7ALVk3.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/CE9g2mQh.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/CHlWuX0G.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/CIuYY_aj.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/CPT-efee.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/CQ10uKX7.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/CRemOj_S.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/CTN6RPiB.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/CWfVk0eP.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/C_1cc0iU.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/CgIMCXEb.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/CgIgtkmO.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/CgOQ_HuA.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/Cny3aOie.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/Cp8JZ9Ul.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/Ct9z2qy_.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/CtQispb_.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/Cvx2-B2D.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/Cz8jlMAs.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/D1JgpCAK.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/D6_8bXKu.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/DFN52oYh.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/DRgpsMcO.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/DS7DhcOO.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/DeI_JnxU.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/DitjZmeO.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/DjclcYY0.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/DlAUqK2U.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/DomLNRPS.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/DpyZzLg0.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/Dq7LnKMV.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/Ds33EF1D.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/Du0wwBPf.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/DyQo2b74.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/KDFh9KCd.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/LYoNOT4o.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/Lhs7Sx-V.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/RUJIqcCR.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/TMvHutL3.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/YJqr2rO7.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/c8NJ6zuQ.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/h9PBojAs.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/hwMYIBja.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/l0i1auY8.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/oBQH-1PZ.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/qcJvPbnN.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/vFG6egJR.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/xKlMGmNE.js": {
+          "as": "script",
+          "crossorigin": ""
+        },
+        "https://horyx.com/_nuxt/y1MDx6ex.js": {
+          "as": "script",
+          "crossorigin": ""
+        }
+      }
+    },
+    "html": "<html data-theme-initialized=\"true\" style=\"color-scheme: light;\" lang=\"ru\" dir=\"ltr\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><script src=\"https://js-agent.newrelic.com/nr-loader-spa-current.min.js\" async=\"\" crossorigin=\"anonymous\" data-nrkey=\"D8316CE06811A4D920C2815CD1ABA9D31DCE3A516AEBE47A1A32782343A0B751\" data-nragentid=\"horyx-frontend\"></script><link integrity=\"sha384-LWxmQlxSA/A4xg7z9whU+rA04fDntQE26+5W2JNfmXDZ/UJfUwh1aztPHF5Zb7yD\" rel=\"stylesheet\" href=\"/_nuxt/entry.CRAPXE2p.css\" crossorigin=\"\"><link integrity=\"sha384-seYJN6rNpXsbX8fjwqRoa29we80FRCeZ6Ll/QtpU/+G5vp4FwVfJQBgo0SNaWFVS\" rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"/_nuxt/B2hHb-pu.js\"><script integrity=\"sha384-seYJN6rNpXsbX8fjwqRoa29we80FRCeZ6Ll/QtpU/+G5vp4FwVfJQBgo0SNaWFVS\" type=\"module\" src=\"/_nuxt/B2hHb-pu.js\" crossorigin=\"\"></script><meta name=\"referrer\" content=\"strict-origin-when-cross-origin\"><link rel=\"icon\" type=\"image/svg+xml\" href=\"/favicon.svg?v=5\"><link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/favicon-32x32.png?v=5\"><link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/apple-touch-icon.png?v=5\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/LYoNOT4o.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/DomLNRPS.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/DpyZzLg0.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BEjBpnKC.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/D6_8bXKu.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/Du0wwBPf.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/DS7DhcOO.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/Cvx2-B2D.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/C87fYjjc.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/CgIMCXEb.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/B5vvcJn3.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/KDFh9KCd.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BkjFVNxn.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/CgIgtkmO.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/B7IwWxEq.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BPRiUyZW.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BFeNJ_xy.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BX8Bokui.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/oBQH-1PZ.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/Ct9z2qy_.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BXm_xI1h.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/Lhs7Sx-V.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BUOcfwTW.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/Bzam2q37.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/c8NJ6zuQ.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BtK7jDbV.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/CTN6RPiB.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/CQ10uKX7.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BlNxRk74.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/CtQispb_.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/CWfVk0eP.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/TMvHutL3.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BFJvPR-k.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/DRgpsMcO.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/CPT-efee.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/Dq7LnKMV.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/Ds33EF1D.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/DeI_JnxU.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/CBkHL8GI.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BIykhdq3.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/y1MDx6ex.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/Ageay9EX.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BB3WBMFJ.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/CIuYY_aj.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/DjclcYY0.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/Cp8JZ9Ul.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BMdf1ute.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/DFN52oYh.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/C0z3u9yS.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/vFG6egJR.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BLPCbUkI.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/CE9g2mQh.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/CHlWuX0G.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/hwMYIBja.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/DlAUqK2U.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/DyQo2b74.js\"><link rel=\"stylesheet\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/driver.DCOzygrY.css\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BLwPf4rD.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/Bw-wm4OI.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/qcJvPbnN.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/CC7ALVk3.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/DitjZmeO.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/Bns5P2p4.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/Cny3aOie.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/Cz8jlMAs.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BRSB0r7D.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/C3OiUduM.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/Bhj2vh_L.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/CAPcxra6.js\"><link rel=\"stylesheet\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/SheetContent.Py9Skgsu.css\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/C_1cc0iU.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/l0i1auY8.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/CRemOj_S.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BbGQbIgN.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BGRhWuN7.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/h9PBojAs.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/CgOQ_HuA.js\"><link rel=\"stylesheet\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/index.CjTYWLX7.css\"><style>[data-vaul-drawer]{touch-action:none;will-change:transform;transition:transform .5s cubic-bezier(.32,.72,0,1);animation-duration:.5s;animation-timing-function:cubic-bezier(.32,.72,0,1)}[data-vaul-drawer][data-vaul-snap-points=false][data-vaul-drawer-direction=bottom][data-state=open]{animation-name:slideFromBottom}[data-vaul-drawer][data-vaul-snap-points=false][data-vaul-drawer-direction=bottom][data-state=closed]{animation-name:slideToBottom}[data-vaul-drawer][data-vaul-snap-points=false][data-vaul-drawer-direction=top][data-state=open]{animation-name:slideFromTop}[data-vaul-drawer][data-vaul-snap-points=false][data-vaul-drawer-direction=top][data-state=closed]{animation-name:slideToTop}[data-vaul-drawer][data-vaul-snap-points=false][data-vaul-drawer-direction=left][data-state=open]{animation-name:slideFromLeft}[data-vaul-drawer][data-vaul-snap-points=false][data-vaul-drawer-direction=left][data-state=closed]{animation-name:slideToLeft}[data-vaul-drawer][data-vaul-snap-points=false][data-vaul-drawer-direction=right][data-state=open]{animation-name:slideFromRight}[data-vaul-drawer][data-vaul-snap-points=false][data-vaul-drawer-direction=right][data-state=closed]{animation-name:slideToRight}[data-vaul-drawer][data-vaul-snap-points=true][data-vaul-drawer-direction=bottom]{transform:translate3d(0,var(--initial-transform, 100%),0)}[data-vaul-drawer][data-vaul-snap-points=true][data-vaul-drawer-direction=top]{transform:translate3d(0,calc(var(--initial-transform, 100%) * -1),0)}[data-vaul-drawer][data-vaul-snap-points=true][data-vaul-drawer-direction=left]{transform:translate3d(calc(var(--initial-transform, 100%) * -1),0,0)}[data-vaul-drawer][data-vaul-snap-points=true][data-vaul-drawer-direction=right]{transform:translate3d(var(--initial-transform, 100%),0,0)}[data-vaul-drawer][data-vaul-delayed-snap-points=true][data-vaul-drawer-direction=top],[data-vaul-drawer][data-vaul-delayed-snap-points=true][data-vaul-drawer-direction=bottom]{transform:translate3d(0,var(--snap-point-height, 0),0)}[data-vaul-drawer][data-vaul-delayed-snap-points=true][data-vaul-drawer-direction=left],[data-vaul-drawer][data-vaul-delayed-snap-points=true][data-vaul-drawer-direction=right]{transform:translate3d(var(--snap-point-height, 0),0,0)}[data-vaul-overlay][data-vaul-snap-points=false]{animation-duration:.5s;animation-timing-function:cubic-bezier(.32,.72,0,1)}[data-vaul-overlay][data-vaul-snap-points=false][data-state=open]{animation-name:fadeIn}[data-vaul-overlay][data-state=closed]{animation-name:fadeOut}[data-vaul-animate=false]{animation:none!important}[data-vaul-overlay][data-vaul-snap-points=true]{opacity:0;transition:opacity .5s cubic-bezier(.32,.72,0,1)}[data-vaul-overlay][data-vaul-snap-points=true]{opacity:1}[data-vaul-drawer]:not([data-vaul-custom-container=true]):after{content:\"\";position:absolute;background:inherit;background-color:inherit}[data-vaul-drawer][data-vaul-drawer-direction=top]:after{top:initial;bottom:100%;left:0;right:0;height:200%}[data-vaul-drawer][data-vaul-drawer-direction=bottom]:after{top:100%;bottom:initial;left:0;right:0;height:200%}[data-vaul-drawer][data-vaul-drawer-direction=left]:after{left:initial;right:100%;top:0;bottom:0;width:200%}[data-vaul-drawer][data-vaul-drawer-direction=right]:after{left:100%;right:initial;top:0;bottom:0;width:200%}[data-vaul-overlay][data-vaul-snap-points=true]:not([data-vaul-snap-points-overlay=true]):not([data-state=closed]){opacity:0}[data-vaul-overlay][data-vaul-snap-points-overlay=true]{opacity:1}[data-vaul-handle]{display:block;position:relative;opacity:.7;background:#e2e2e4;margin-left:auto;margin-right:auto;height:5px;width:32px;border-radius:1rem;touch-action:pan-y}[data-vaul-handle]:hover,[data-vaul-handle]:active{opacity:1}[data-vaul-handle-hitarea]{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:max(100%,2.75rem);height:max(100%,2.75rem);touch-action:inherit}@media (hover: hover) and (pointer: fine){[data-vaul-drawer]{-webkit-user-select:none;user-select:none}}@media (pointer: fine){[data-vaul-handle-hitarea]:{width:100%;height:100%}}@keyframes fadeIn{0%{opacity:0}to{opacity:1}}@keyframes fadeOut{to{opacity:0}}@keyframes slideFromBottom{0%{transform:translate3d(0,var(--initial-transform, 100%),0)}to{transform:translateZ(0)}}@keyframes slideToBottom{to{transform:translate3d(0,var(--initial-transform, 100%),0)}}@keyframes slideFromTop{0%{transform:translate3d(0,calc(var(--initial-transform, 100%) * -1),0)}to{transform:translateZ(0)}}@keyframes slideToTop{to{transform:translate3d(0,calc(var(--initial-transform, 100%) * -1),0)}}@keyframes slideFromLeft{0%{transform:translate3d(calc(var(--initial-transform, 100%) * -1),0,0)}to{transform:translateZ(0)}}@keyframes slideToLeft{to{transform:translate3d(calc(var(--initial-transform, 100%) * -1),0,0)}}@keyframes slideFromRight{0%{transform:translate3d(var(--initial-transform, 100%),0,0)}to{transform:translateZ(0)}}@keyframes slideToRight{to{transform:translate3d(var(--initial-transform, 100%),0,0)}}</style><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/Bw4Z33qx.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/D1JgpCAK.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/YJqr2rO7.js\"><link rel=\"stylesheet\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/login.OPzJPrys.css\"><title>Sign in to Horyx - AI-Powered Talent Matching</title><link rel=\"alternate\" hreflang=\"ru\" href=\"https://horyx.com/profile\"><link rel=\"alternate\" hreflang=\"en\" href=\"https://horyx.com/profile\"><link rel=\"alternate\" hreflang=\"x-default\" href=\"https://horyx.com/profile\"><meta name=\"description\" content=\"Sign in to your Horyx account to access AI-powered job matching and career opportunities.\"><meta property=\"og:title\" content=\"Sign in to Horyx - AI-Powered Talent Matching\"><meta property=\"og:description\" content=\"Sign in to your Horyx account to access AI-powered job matching and career opportunities.\"><meta name=\"robots\" content=\"noindex, nofollow\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/C0quU-RP.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/RUJIqcCR.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/xKlMGmNE.js\"><link rel=\"stylesheet\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/LogoMarkEntrance.BmgTC6OM.css\"><link rel=\"modulepreload\" as=\"script\" crossorigin=\"\" href=\"https://horyx.com/_nuxt/BnbZD47s.js\"></head><body><div id=\"__nuxt\" data-v-app=\"\"><div class=\"nuxt-loading-indicator\" style=\"position: fixed; top: 0px; right: 0px; left: 0px; pointer-events: none; width: auto; height: 3px; opacity: 0; background:  0% 0% / 100% rgb(59, 130, 246); transform: scaleX(1); transform-origin: left center; transition: transform 0.1s, height 0.4s, opacity 0.4s; z-index: 999999;\"></div><div class=\"min-h-screen bg-background text-foreground\"><div id=\"main-scroll\" class=\"min-h-screen h-screen overflow-y-auto overflow-x-hidden\"><div class=\"page-container\"><div data-v-46da6246=\"\" class=\"min-h-screen relative bg-background\"><div data-v-46da6246=\"\" class=\"absolute inset-y-0 left-0 z-10 w-[30%] pointer-events-none\" style=\"background: linear-gradient(\n          to right,\n          hsl(var(--background)) 0%,\n          hsl(var(--background)) 30%,\n          transparent 100%\n        );\"></div><div data-v-46da6246=\"\" class=\"absolute inset-y-0 right-0 z-10 w-[30%] pointer-events-none\" style=\"background: linear-gradient(\n          to left,\n          hsl(var(--background)) 0%,\n          hsl(var(--background)) 30%,\n          transparent 100%\n        );\"></div><div data-v-46da6246=\"\" class=\"relative z-20 flex min-h-screen items-center justify-center p-4 sm:p-6 lg:p-8\"><div data-v-46da6246=\"\" class=\"flex flex-col items-center w-full max-w-md\"><div data-v-46da6246=\"\" data-slot=\"card\" class=\"text-card-foreground flex flex-col gap-4 rounded-xl pt-4 pb-4 shadow-sm login-card w-full border border-border/50 transition-all duration-300 relative bg-background\"><div data-v-46da6246=\"\" data-slot=\"card-header\" class=\"flex flex-col px-4 pt-4 gap-0 space-y-4 text-center pb-6\"><div data-v-46da6246=\"\" class=\"space-y-3\"><h2 data-v-46da6246=\"\" class=\"text-2xl font-semibold sm:text-3xl lg:text-4xl\">Sign in to <span data-v-46da6246=\"\" class=\"relative font-bold text-primary\">Horyx <svg data-v-46da6246=\"\" width=\"453\" height=\"8\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"absolute -bottom-1 left-0 w-full\"><path data-v-46da6246=\"\" d=\"M2 6.75068C53.4722 -1.10509 368.533 2.14284 451.5 6.75085\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\"></path></svg></span></h2></div></div><div data-v-46da6246=\"\" data-slot=\"card-content\" class=\"px-4 pt-0 space-y-6 pb-8\"><div data-v-46da6246=\"\" class=\"space-y-3\"><div data-v-46da6246=\"\" data-slot=\"skeleton\" class=\"animate-pulse bg-primary/10 h-12 w-full rounded-md\"></div><div data-v-46da6246=\"\" data-slot=\"skeleton\" class=\"animate-pulse bg-primary/10 h-12 w-full rounded-md\"></div></div></div></div><p data-v-46da6246=\"\" class=\"mt-6 text-center text-sm text-muted-foreground\">By continuing, you agree to the <a data-v-46da6246=\"\" href=\"/privacy-policy\" class=\"underline hover:text-primary transition-colors\">Privacy Policy</a> and <a data-v-46da6246=\"\" href=\"/user-agreement\" class=\"underline hover:text-primary transition-colors\">User Agreement</a></p></div></div></div><!-- Remove item from normal navigation flow, only available via hotkey --><section aria-label=\"Notifications alt+T\" tabindex=\"-1\" aria-live=\"polite\" aria-relevant=\"additions text\" aria-atomic=\"false\"><ol data-sonner-toaster=\"\" data-sonner-theme=\"light\" class=\"toaster group fixed bottom-0 right-0 z-[100] flex max-h-screen w-full flex-col-reverse p-4 sm:bottom-0 sm:right-0 sm:top-auto sm:flex-col md:max-w-[420px] [&amp;:empty]:hidden [&amp;:not(:has(&gt;li))]:hidden\" dir=\"ltr\" tabindex=\"-1\" data-theme=\"light\" data-rich-colors=\"false\" data-y-position=\"bottom\" data-x-position=\"right\" limit=\"3\" data-empty=\"true\" style=\"--front-toast-height: 0px; --width: 356px; --gap: 14px; --offset-top: 24px; --offset-right: 24px; --offset-bottom: 24px; --offset-left: 24px; --mobile-offset-top: 16px; --mobile-offset-right: 16px; --mobile-offset-bottom: 16px; --mobile-offset-left: 16px;\"></ol></section></div></div></div></div><div id=\"teleports\"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{apiBase:\"https://horyx.com\",disableAuth:false,mockUserRole:\"admin\",assetsBaseUrl:\"https://horyx-prod.nyc3.digitaloceanspaces.com\",sentryDsn:\"\",env:\"development\",garnaAuthUrl:\"/login\",siteUrl:\"https://horyx.com\",i18n:{baseUrl:\"http://localhost:4000\",defaultLocale:\"ru\",rootRedirect:\"\",redirectStatusCode:302,skipSettingLocaleOnNavigate:false,locales:[{code:\"ru\",name:\"Русский\",language:\"\"},{code:\"en\",name:\"English\",language:\"\"}],detectBrowserLanguage:{alwaysRedirect:false,cookieCrossOrigin:false,cookieDomain:\"\",cookieKey:\"i18n_redirected\",cookieSecure:false,fallbackLocale:\"\",redirectOn:\"root\",useCookie:true},experimental:{localeDetector:\"\",typedPages:true,typedOptionsAndMessages:false,alternateLinkCanonicalQueries:true,devCache:false,cacheLifetime:\"\",stripMessagesPayload:false,preload:false,strictSeo:false,nitroContextDetection:true,httpCacheDuration:10},domainLocales:{ru:{domain:\"\"},en:{domain:\"\"}}}},app:{baseURL:\"/\",buildId:\"0be187bb-38da-435c-8cd3-273bab263fca\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"false\" id=\"__NUXT_DATA__\">[{\"serverRendered\":1},false]</script><script defer=\"\" src=\"https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516\" integrity=\"sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==\" data-cf-beacon=\"{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;3c6dadf5b3484119bf20e43208c79642&quot;,&quot;r&quot;:1,&quot;server_timing&quot;:{&quot;name&quot;:{&quot;cfCacheStatus&quot;:true,&quot;cfEdge&quot;:true,&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfSpeedBrain&quot;:true},&quot;location_startswith&quot;:null}}\" crossorigin=\"anonymous\"></script>\n<!----><!----><!----></body></html>",
+    "metadata": {
+      "description": "Sign in to your Horyx account to access AI-powered job matching and career opportunities.",
+      "lang": "ru",
+      "og:description": "Sign in to your Horyx account to access AI-powered job matching and career opportunities.",
+      "og:title": "Sign in to Horyx - AI-Powered Talent Matching",
+      "referrer": "strict-origin-when-cross-origin",
+      "robots": "noindex, nofollow",
+      "viewport": "width=device-width, initial-scale=1"
+    },
+    "title": "Sign in to Horyx - AI-Powered Talent Matching",
+    "url": "https://horyx.com/profile",
+    "usage": {
+      "tokens": 6616
+    }
+  },
+  "meta": {
+    "usage": {
+      "tokens": 6616
+    }
+  },
+  "status": 20000
+}
